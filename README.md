@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arnavgupta03
-- 👀 I’m interested in Mobile Development and AI.
-- 🌱 I’m currently learning Android development with Kotlin and XML.
+- 👀 I’m interested in Mobile Development, Web Development, and AI.
+- 🌱 I’m currently learning Android development with Kotlin and Web development with Flask.
 - 📫 How to reach me: Check out [my website](https://arnavgupta.glitch.me).
 
 <!---
